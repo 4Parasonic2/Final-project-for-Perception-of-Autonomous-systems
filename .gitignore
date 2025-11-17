@@ -1,8 +1,2 @@
-calib/image_02/data/
-calib/image_03/data/
-seq_01/image_02/data/
-seq_01/image_03/data/
-seq_02/image_02/data/
-seq_02/image_03/data/
-seq_03/image_02/data/
-seq_03/image_03/data/
+raw/
+rect/
